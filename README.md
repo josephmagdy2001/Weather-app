@@ -54,8 +54,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or questions, feel free to reach out:
 
-- [Linkedin](www.linkedin.com/in/josephmagdy)
+<a src="www.linkedin.com/in/josephmagdy">Linkedin </a>
 
-- [GitHub](https://github.com/josephmagdy2001)
 
 Joseph Magdy Habib
