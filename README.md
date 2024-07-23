@@ -1,7 +1,7 @@
 # Weather App
 
 ## Demo : https://weather-app-flame-sigma.vercel.app/
-### https://josephmagdy2001.github.io/Weather-app/
+### https://josephmagdy2001.github.io/Weather-app/index.html
 
 ## Overview
 
